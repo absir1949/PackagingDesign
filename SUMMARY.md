@@ -1,3 +1,16 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [Introduction](README.md)
+* [项目信息](ch0/README.md)
+    * [其他信息](ch0/others.md)
+* [第一章：包装设计基本知识](ch1/README.md)
+    * [基础任务](ch1/assignment_basic.md)
+* [第二章：包装设计流程](ch2/README.md)
+* [第三章：包装设计技巧](ch3/README.md)
+* [第四章：包装结构设计](ch4/README.md)
+ * [常见纸盒材质](ch4/2.md)
+ * [常见纸盒结构形式](ch4/3.md)
+* [第五章：包装平面设计](ch5/README.md)
+* [第六章：包装印刷、销售、运输](ch6/README.md)
+* [第七章：包装设计规范](ch7/README.md)
+* [第八章：优秀包装鉴赏](ch8/README.md)
