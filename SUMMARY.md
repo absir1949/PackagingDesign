@@ -4,7 +4,6 @@
 * [项目信息](ch0/README.md)
     * [其他信息](ch0/others.md)
 * [第一章：包装设计基本知识](ch1/README.md)
-    * [基础任务](ch1/assignment_basic.md)
 * [第二章：包装设计流程](ch2/README.md)
 * [第三章：包装设计技巧](ch3/README.md)
 * [第四章：包装结构设计](ch4/README.md)
